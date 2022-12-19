@@ -1,5 +1,5 @@
 # My Awesome Project
-Write a short sentence or two about this project and what it does. Be sure to include a link and a screenshot (we're front end devs so we can actually see our work!).
+A simple and semi functionl login ui, the first draft of a final product.
 
 **Link to project:** https://si-loginui.netlify.app/
 
